@@ -23,11 +23,11 @@ function App() {
     }, [])
 
     return !loading ? (
-        <div className='min-h-screen flex  content-between bg-gray-400'>
+        <div className='min-h-screen flex  content-between bg-teal-900'>
             <div className='w-full block'>
                 <Header />
-                <main>
-                    TODO:  <Outlet />
+                <main className="text-2xl font-black  dark:text-green-500 mt-14 mb-5 ">
+                    KNOWLEDGE GATE <Outlet />
                 </main>
                 <Footer />
             </div>

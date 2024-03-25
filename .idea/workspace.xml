@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02365e44-0590-4859-942c-971561ea2f74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/appwrite/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/appwrite/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/AuthLayout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Header/LogoutBtn.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Logo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/PostCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/RTE.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Select.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/Signup.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/container/Container.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/components/post-form/PostForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/conf/conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/pages/AddPost.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/pages/AllPosts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/pages/EditPost.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/pages/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/pages/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/pages/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/pages/Signup.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/store/authSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src/store/store.js" afterDir="false" />
-    </list>
+    <list default="true" id="02365e44-0590-4859-942c-971561ea2f74" name="Changes" comment="Blog app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,21 +25,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/shivanimutke/Documents/BlogAndDynamicPdf/BlogAndDynamicPDFAPP/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shivanimutke/Documents/BlogAndDynamicPdf/BlogAndDynamicPDFAPP/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BlogAndDynamicPDFAPP/src" />
@@ -89,10 +57,35 @@
       <updated>1709135960400</updated>
       <workItem from="1709135961539" duration="454000" />
       <workItem from="1709382178595" duration="15315000" />
+      <workItem from="1710081589268" duration="996000" />
     </task>
+    <task id="LOCAL-00001" summary="Blog app">
+      <option name="closed" value="true" />
+      <created>1710081807144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710081807144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Blog app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blog app" />
   </component>
 </project>
